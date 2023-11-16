@@ -1,0 +1,34 @@
+body
+{
+    background-color:#FEC5EC;
+    color:rgb(27, 15, 1);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    color:#E11584;
+}
+
+h3{ color:#FC46AA;}
+
+.img1 {
+    width: 400px;
+    height: 250px;
+    border-style:double;
+    border-color:#E11584;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.img2 {
+    width: 400px;
+    height: 250px;
+    border-style:double;
+    margin-top: 30px;
+    margin-left: 50px;}
+
+footer{
+    color:rgb(213, 11, 235)
+}
+smal,a{
+    color:blueviolet;
+}
